@@ -7,7 +7,7 @@ st.title("وين نسكن في الرياض؟")
 statement = ""
 st.write(statement)
 
-image = ""
+image = "applee.jpg"
 st.image(image, caption="نسبة اعلانات التوظيف في مدن المملكه ")
 
 
